@@ -2,6 +2,9 @@
 
 Small react application demonstrates how to use browser speech recognition API.
 
+![Alt Text](./docs/demo.gif)
+
+
 ### Running
 
 ```
